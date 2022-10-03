@@ -1,2 +1,3 @@
 - Lors du commit essentiel faire un commentaire sur la modification realiser (court et precis pour tenir sur une ligne de commande)
-- localisation du tp : "https://github.com/jmtrivial/tp-git"
+    - localisation du tp : "https://github.com/jmtrivial/tp-git"
+- 
